@@ -16,6 +16,41 @@ Animals like Elephants often get out otheir habitat and enter village borders du
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<h2> Functionalities </h2>
+
+<p>
+  
+  The Functionalities of the intrsuion detection system is listed below:
+      
+      1. Elephant detection and recognition
+      2. Alert via telephonic call
+      3. Activity-Logs (Displayed through log app)
+
+  </p>
+  
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h2> Tech Stacks </h2>
+
+<p>
+  
+  The Tech Stacks of the intrsuion detection system is listed below:
+      
+      1. Python
+      2. HTML,CSS, JavaScript, React, Firebase (storage)
+      3. Mask RCNN-Pre-trained model(mscoco)
+      4. Twilio
+      
+  </p>
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 <h2> Project Setup </h2>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
