@@ -11,17 +11,6 @@ Animals like Elephants often get out otheir habitat and enter village borders du
 </p>
 
 
-<p>
-
-The repository includes:
-
-  <ul>
-  <li>PPT</li>
-  <li>Project Code</li>
-  <li>Project Demo</li>
-</ul>
-  
-</p>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
