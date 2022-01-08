@@ -56,6 +56,11 @@ Animals like Elephants often get out otheir habitat and enter village borders du
 
 <p>
   
+  <h3> Main App </h3>
+ 
+ This application takes in input from an optical sesnor in the form of frames using openCV. The pretrained model then checks the frames for the elephant class, if found the frame with its time of capture is logged locally and also to the firebase storage. With the detection of the elephant in the frame there is an alert displayed and also a telephonic call is initiated to the user.
+ 
+ 
   <h4> 1. Requirements </h4>
   
   <p>
@@ -78,12 +83,12 @@ Animals like Elephants often get out otheir habitat and enter village borders du
   
   <p>
   
- Create a folder Inside the Mask RCNN Master, and give the name of your choice. Download the repository content in this new folder
+ Create a folder Inside the Mask RCNN Master, and give the name of your choice. Move the main app code to this folder
   
 </p>
   
 
-<h4> 4.Code Excution </h4>
+<h4> 4.Code Execution </h4>
   
   <p>
   
@@ -93,7 +98,31 @@ Execute the python file, python video_demo0.py
 
 
 
+<h3> Log App (Web) </h3>
+
+The deteced elephants logs which are stored in the firebase srorage are displayed in the app for the users to view and review
+
+<p>
+  
+ 1. Download the log app code
+  
+</p> 
+
+
+
+<h4> 2. Dependency </h4>
+  
+  <p>
+  Run 'npm innstall' in the directory where the code resides to download the dependencies 
 </p>
+
+
+
+<h4> 3. Run </h4>
+  
+  <p>
+  Run 'npm  staert' to execute the cide
+
 
 
 <h2> Modules </h2>
