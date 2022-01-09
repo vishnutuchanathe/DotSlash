@@ -113,7 +113,7 @@ The deteced elephants logs which are stored in the firebase srorage are displaye
 <h4> 2. Dependency </h4>
   
   <p>
-  Run 'npm innstall' in the directory where the code resides to download the dependencies 
+  Run 'npm install' in the directory where the code resides to download the dependencies 
 </p>
 
 
@@ -121,7 +121,7 @@ The deteced elephants logs which are stored in the firebase srorage are displaye
 <h4> 3. Run </h4>
   
   <p>
-  Run 'npm  staert' to execute the cide
+  Run 'npm  start' to execute the code
 
 
 
