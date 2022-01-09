@@ -58,7 +58,7 @@ Animals like Elephants often get out otheir habitat and enter village borders du
   
   <h3> Main App </h3>
  
- This application takes in input from an optical sesnor in the form of frames using openCV. The pretrained model then checks the frames for the elephant class, if found the frame with its time of capture is logged locally and also to the firebase storage. With the detection of the elephant in the frame there is an alert displayed and also a telephonic call is initiated to the user.
+ This application takes in input from an optical sesnsor in the form of frames using openCV. The pretrained model then checks the frames for the elephant class, if found the frame with its time of capture is logged locally and also to the firebase storage. With the detection of the elephant in the frame there is an alert displayed and also a telephonic call is initiated to the user.
  
  
   <h4> 1. Requirements </h4>
