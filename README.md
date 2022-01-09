@@ -182,7 +182,7 @@ reliable and technically simple solution. This approach believes that by elimina
 sensors that add no value to the system and by keeping the optical sensor active all the
 time the environmental balance can be achieved by saving the wild animals from getting
 harmed. The proposed method is also easy to implement and environment friendly. It can
-save human life and property. In the future we aim to expand this project by adding more
+save human life and afarmers property like agricultural, farms lands, cultivation crops etc. In the future we aim to expand this project by adding more
 training classes that will help increase the accuracy. We are also looking to use the
 captured masked images of elephants detected from the live feed which we are now
 storing in the logs, to train the model to get better results
