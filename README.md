@@ -173,6 +173,19 @@ api function in the form of a cloud hosted xml file. THe program also throws an 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+  <h2> Conclusion and future work </h2>
   
+  <p>
   
+The proposed solution for the Animal intrusion detection system presents a cost-effective,
+reliable and technically simple solution. This approach believes that by eliminating
+sensors that add no value to the system and by keeping the optical sensor active all the
+time the environmental balance can be achieved by saving the wild animals from getting
+harmed. The proposed method is also easy to implement and environment friendly. It can
+save human life and property. In the future we aim to expand this project by adding more
+training classes that will help increase the accuracy. We are also looking to use the
+captured masked images of elephants detected from the live feed which we are now
+storing in the logs, to train the model to get better results
+  
+  </p>
 
